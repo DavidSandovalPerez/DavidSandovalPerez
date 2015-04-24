@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Página de proyectos del alumno Alan Brito
+title: Página de proyectos del alumno David Sandoval
 ---
 
 
-# Página de proyectos del alumno Alan Brito
+# Página de proyectos del alumno David Sandoval
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
-Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, nunca me copio porque se que tengo la capacidad de hacer lo mejor.
+Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, never me copio porque se que tengo la capacidad de hacer lo mejor.
 
 ## ¿Qué me gusta?
 
 * Informática
 * Chocolate
-* La Playa
+* El deporte
 * La buena música
 
 # Esto es un H1
